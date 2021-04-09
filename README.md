@@ -18,9 +18,15 @@
   * vscode cmake ext. is little bug build. (firewall or security may block access)
 
 # Links:
+ * https://github.com/raysan5/raylib
  * https://github.com/WEREMSOFT/c99-raylib-cimgui-template
 
+# Credits:
+  * raysan5
 
+  Easy to used from project github example for cmake build.
+
+  * https://github.com/raysan5/raylib/tree/master/projects/CMake
 
 
 
